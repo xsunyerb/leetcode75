@@ -1,7 +1,9 @@
 # leetcode75
-Blind 75 leetcode questions
+[Blind 75 leetcode questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
-based on article [here](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+### Useful links:
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Grind 75](https://www.techinterviewhandbook.org/grind75/)
 
 ## Array
 1. Two Sum (https://leetcode.com/problems/two-sum/description/)
@@ -107,8 +109,3 @@ based on article [here](https://leetcode.com/discuss/general-discussion/460599/b
 74. Merge K Sorted Lists
 75. Top K Frequent Elements
 76. Find Median from Data Stream
-
-## Important links:
-
-- (14 Patterns to Ace Any Coding Interview Question)[https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed]
-- (Grind 75)[https://www.techinterviewhandbook.org/grind75/]
